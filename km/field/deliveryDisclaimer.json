@@ -1,10 +1,10 @@
 {
   "$id": "deliveryDisclaimer",
-  "$schema": "https://schema.yext.com/config/km/custom-field/v1",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Delivery Disclaimer",
   "apiName": "c_deliveryDisclaimer",
   "description": "",
-  "typeId": "type.string",
+  "typeId": "yext/string",
   "type": {
     "stringType": {
       "stereotype": "MULTILINE",

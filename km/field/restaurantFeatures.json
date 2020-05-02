@@ -1,13 +1,13 @@
 {
   "$id": "restaurantFeatures",
-  "$schema": "https://schema.yext.com/config/km/custom-field/v1",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Restaurant Features",
   "apiName": "c_restaurantFeatures",
   "description": "",
-  "typeId": "type.list",
+  "typeId": "yext/list",
   "type": {
     "listType": {
-      "typeId": "type.option",
+      "typeId": "yext/option",
       "type": {
         "optionType": {
           "option": [

@@ -1,10 +1,10 @@
 {
   "$id": "restaurantType",
-  "$schema": "https://schema.yext.com/config/km/custom-field/v1",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Restaurant Type",
   "apiName": "c_restaurantType",
   "description": "",
-  "typeId": "type.option",
+  "typeId": "yext/option",
   "type": {
     "optionType": {
       "option": [

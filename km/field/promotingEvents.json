@@ -1,17 +1,17 @@
 {
   "$id": "promotingEvents",
-  "$schema": "https://schema.yext.com/config/km/custom-field/v1",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Promoting Events",
   "apiName": "c_promotingEvents",
   "description": "",
-  "typeId": "type.list",
+  "typeId": "yext/list",
   "type": {
     "listType": {
-      "typeId": "type.entity_reference",
+      "typeId": "yext/entityReference",
       "type": {
         "entityReferenceType": {
           "supportedEntityTypeIds": [
-            "event"
+            "yext/event"
           ]
         }
       }
