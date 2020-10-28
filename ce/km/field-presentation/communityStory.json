@@ -130,7 +130,14 @@
           "id": "yext/description"
         },
         {
-          "id": "yext/videos"
+          "id": "yext/organizerEmail"
+        },
+        {
+          "id": "yext/videos",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "yext/landingPageUrl"
         },
         {
           "id": "c_goal"
@@ -146,12 +153,6 @@
         },
         {
           "id": "c_theme"
-        },
-        {
-          "id": "yext/organizerEmail"
-        },
-        {
-          "id": "yext/landingPageUrl"
         }
       ]
     },
@@ -276,6 +277,9 @@
         },
         {
           "id": "yext/labels"
+        },
+        {
+          "id": "c_territory"
         }
       ]
     }
